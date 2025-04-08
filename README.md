@@ -1,4 +1,4 @@
-# Final Project Report: CS506 Final Project
+# Final Report: Airbnb Pricing Prediction Project
 
 ## How to Build and Run the Code
 
